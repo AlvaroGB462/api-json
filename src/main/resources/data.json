@@ -1,0 +1,29 @@
+{
+  "clubes": [
+    {
+      "nick_club": "Moteros Sevilla",
+      "password_club": "123",
+      "id_club": "1"
+    },
+    {
+      "nick_club": "Hell Fire",
+      "password_club": "321",
+      "id_club": "2"
+    },
+    {
+      "nick_club": "Hell Devils",
+      "password_club": "456",
+      "id_club": "3"
+    },
+    {
+      "nick_club": "Fire Motor",
+      "password_club": "654",
+      "id_club": "4"
+    },
+    {
+      "nick_club": "Motos Alcalá",
+      "password_club": "678",
+      "id_club": "5"
+    }
+  ]
+}
